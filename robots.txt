@@ -1,0 +1,5 @@
+# Lakshmi Puja — Bengali Emotion
+User-agent: *
+Allow: /
+
+Sitemap: https://aahan225.github.io/Lakshmi-Puja/sitemap.xml
